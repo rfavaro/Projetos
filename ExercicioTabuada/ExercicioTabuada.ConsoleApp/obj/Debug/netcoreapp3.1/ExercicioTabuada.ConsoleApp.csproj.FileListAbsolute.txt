@@ -1,0 +1,11 @@
+C:\Projetos\ExercicioTabuada\ExercicioTabuada.ConsoleApp\bin\Debug\netcoreapp3.1\ExercicioTabuada.ConsoleApp.exe
+C:\Projetos\ExercicioTabuada\ExercicioTabuada.ConsoleApp\bin\Debug\netcoreapp3.1\ExercicioTabuada.ConsoleApp.deps.json
+C:\Projetos\ExercicioTabuada\ExercicioTabuada.ConsoleApp\bin\Debug\netcoreapp3.1\ExercicioTabuada.ConsoleApp.runtimeconfig.json
+C:\Projetos\ExercicioTabuada\ExercicioTabuada.ConsoleApp\bin\Debug\netcoreapp3.1\ExercicioTabuada.ConsoleApp.runtimeconfig.dev.json
+C:\Projetos\ExercicioTabuada\ExercicioTabuada.ConsoleApp\bin\Debug\netcoreapp3.1\ExercicioTabuada.ConsoleApp.dll
+C:\Projetos\ExercicioTabuada\ExercicioTabuada.ConsoleApp\bin\Debug\netcoreapp3.1\ExercicioTabuada.ConsoleApp.pdb
+C:\Projetos\ExercicioTabuada\ExercicioTabuada.ConsoleApp\obj\Debug\netcoreapp3.1\ExercicioTabuada.ConsoleApp.csprojAssemblyReference.cache
+C:\Projetos\ExercicioTabuada\ExercicioTabuada.ConsoleApp\obj\Debug\netcoreapp3.1\ExercicioTabuada.ConsoleApp.AssemblyInfoInputs.cache
+C:\Projetos\ExercicioTabuada\ExercicioTabuada.ConsoleApp\obj\Debug\netcoreapp3.1\ExercicioTabuada.ConsoleApp.AssemblyInfo.cs
+C:\Projetos\ExercicioTabuada\ExercicioTabuada.ConsoleApp\obj\Debug\netcoreapp3.1\ExercicioTabuada.ConsoleApp.dll
+C:\Projetos\ExercicioTabuada\ExercicioTabuada.ConsoleApp\obj\Debug\netcoreapp3.1\ExercicioTabuada.ConsoleApp.pdb

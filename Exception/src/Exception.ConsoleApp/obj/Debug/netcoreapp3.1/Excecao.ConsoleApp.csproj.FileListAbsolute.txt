@@ -1,0 +1,11 @@
+C:\Projetos\Exception\src\Exception.ConsoleApp\bin\Debug\netcoreapp3.1\Excecao.ConsoleApp.exe
+c:\Projetos\Exception\src\Exception.ConsoleApp\bin\Debug\netcoreapp3.1\Excecao.ConsoleApp.deps.json
+c:\Projetos\Exception\src\Exception.ConsoleApp\bin\Debug\netcoreapp3.1\Excecao.ConsoleApp.runtimeconfig.json
+c:\Projetos\Exception\src\Exception.ConsoleApp\bin\Debug\netcoreapp3.1\Excecao.ConsoleApp.runtimeconfig.dev.json
+C:\Projetos\Exception\src\Exception.ConsoleApp\bin\Debug\netcoreapp3.1\Excecao.ConsoleApp.dll
+C:\Projetos\Exception\src\Exception.ConsoleApp\bin\Debug\netcoreapp3.1\Excecao.ConsoleApp.pdb
+C:\Projetos\Exception\src\Exception.ConsoleApp\obj\Debug\netcoreapp3.1\Excecao.ConsoleApp.csprojAssemblyReference.cache
+C:\Projetos\Exception\src\Exception.ConsoleApp\obj\Debug\netcoreapp3.1\Excecao.ConsoleApp.AssemblyInfoInputs.cache
+C:\Projetos\Exception\src\Exception.ConsoleApp\obj\Debug\netcoreapp3.1\Excecao.ConsoleApp.AssemblyInfo.cs
+C:\Projetos\Exception\src\Exception.ConsoleApp\obj\Debug\netcoreapp3.1\Excecao.ConsoleApp.dll
+C:\Projetos\Exception\src\Exception.ConsoleApp\obj\Debug\netcoreapp3.1\Excecao.ConsoleApp.pdb

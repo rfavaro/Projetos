@@ -1,0 +1,11 @@
+C:\Projetos\ParOuImpar\src\ParOuImpar.ConsoleApp\bin\Debug\netcoreapp3.1\ParOuImpar.ConsoleApp.exe
+c:\Projetos\ParOuImpar\src\ParOuImpar.ConsoleApp\bin\Debug\netcoreapp3.1\ParOuImpar.ConsoleApp.deps.json
+c:\Projetos\ParOuImpar\src\ParOuImpar.ConsoleApp\bin\Debug\netcoreapp3.1\ParOuImpar.ConsoleApp.runtimeconfig.json
+c:\Projetos\ParOuImpar\src\ParOuImpar.ConsoleApp\bin\Debug\netcoreapp3.1\ParOuImpar.ConsoleApp.runtimeconfig.dev.json
+C:\Projetos\ParOuImpar\src\ParOuImpar.ConsoleApp\bin\Debug\netcoreapp3.1\ParOuImpar.ConsoleApp.dll
+C:\Projetos\ParOuImpar\src\ParOuImpar.ConsoleApp\bin\Debug\netcoreapp3.1\ParOuImpar.ConsoleApp.pdb
+C:\Projetos\ParOuImpar\src\ParOuImpar.ConsoleApp\obj\Debug\netcoreapp3.1\ParOuImpar.ConsoleApp.csprojAssemblyReference.cache
+C:\Projetos\ParOuImpar\src\ParOuImpar.ConsoleApp\obj\Debug\netcoreapp3.1\ParOuImpar.ConsoleApp.AssemblyInfoInputs.cache
+C:\Projetos\ParOuImpar\src\ParOuImpar.ConsoleApp\obj\Debug\netcoreapp3.1\ParOuImpar.ConsoleApp.AssemblyInfo.cs
+C:\Projetos\ParOuImpar\src\ParOuImpar.ConsoleApp\obj\Debug\netcoreapp3.1\ParOuImpar.ConsoleApp.dll
+C:\Projetos\ParOuImpar\src\ParOuImpar.ConsoleApp\obj\Debug\netcoreapp3.1\ParOuImpar.ConsoleApp.pdb

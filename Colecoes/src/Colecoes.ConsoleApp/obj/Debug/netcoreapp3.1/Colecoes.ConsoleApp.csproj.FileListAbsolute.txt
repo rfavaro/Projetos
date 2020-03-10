@@ -1,0 +1,11 @@
+C:\Projetos\Colecoes\src\Colecoes.ConsoleApp\bin\Debug\netcoreapp3.1\Colecoes.ConsoleApp.exe
+c:\Projetos\Colecoes\src\Colecoes.ConsoleApp\bin\Debug\netcoreapp3.1\Colecoes.ConsoleApp.deps.json
+c:\Projetos\Colecoes\src\Colecoes.ConsoleApp\bin\Debug\netcoreapp3.1\Colecoes.ConsoleApp.runtimeconfig.json
+c:\Projetos\Colecoes\src\Colecoes.ConsoleApp\bin\Debug\netcoreapp3.1\Colecoes.ConsoleApp.runtimeconfig.dev.json
+C:\Projetos\Colecoes\src\Colecoes.ConsoleApp\bin\Debug\netcoreapp3.1\Colecoes.ConsoleApp.dll
+C:\Projetos\Colecoes\src\Colecoes.ConsoleApp\bin\Debug\netcoreapp3.1\Colecoes.ConsoleApp.pdb
+C:\Projetos\Colecoes\src\Colecoes.ConsoleApp\obj\Debug\netcoreapp3.1\Colecoes.ConsoleApp.csprojAssemblyReference.cache
+C:\Projetos\Colecoes\src\Colecoes.ConsoleApp\obj\Debug\netcoreapp3.1\Colecoes.ConsoleApp.AssemblyInfoInputs.cache
+C:\Projetos\Colecoes\src\Colecoes.ConsoleApp\obj\Debug\netcoreapp3.1\Colecoes.ConsoleApp.AssemblyInfo.cs
+C:\Projetos\Colecoes\src\Colecoes.ConsoleApp\obj\Debug\netcoreapp3.1\Colecoes.ConsoleApp.dll
+C:\Projetos\Colecoes\src\Colecoes.ConsoleApp\obj\Debug\netcoreapp3.1\Colecoes.ConsoleApp.pdb

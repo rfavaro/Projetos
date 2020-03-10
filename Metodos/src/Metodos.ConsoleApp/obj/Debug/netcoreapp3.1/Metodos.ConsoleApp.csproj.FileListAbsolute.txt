@@ -1,0 +1,11 @@
+C:\Projetos\Metodos\src\Metodos.ConsoleApp\obj\Debug\netcoreapp3.1\Metodos.ConsoleApp.csprojAssemblyReference.cache
+C:\Projetos\Metodos\src\Metodos.ConsoleApp\obj\Debug\netcoreapp3.1\Metodos.ConsoleApp.AssemblyInfoInputs.cache
+C:\Projetos\Metodos\src\Metodos.ConsoleApp\obj\Debug\netcoreapp3.1\Metodos.ConsoleApp.AssemblyInfo.cs
+C:\Projetos\Metodos\src\Metodos.ConsoleApp\bin\Debug\netcoreapp3.1\Metodos.ConsoleApp.exe
+C:\Projetos\Metodos\src\Metodos.ConsoleApp\bin\Debug\netcoreapp3.1\Metodos.ConsoleApp.deps.json
+C:\Projetos\Metodos\src\Metodos.ConsoleApp\bin\Debug\netcoreapp3.1\Metodos.ConsoleApp.runtimeconfig.json
+C:\Projetos\Metodos\src\Metodos.ConsoleApp\bin\Debug\netcoreapp3.1\Metodos.ConsoleApp.runtimeconfig.dev.json
+C:\Projetos\Metodos\src\Metodos.ConsoleApp\bin\Debug\netcoreapp3.1\Metodos.ConsoleApp.dll
+C:\Projetos\Metodos\src\Metodos.ConsoleApp\bin\Debug\netcoreapp3.1\Metodos.ConsoleApp.pdb
+C:\Projetos\Metodos\src\Metodos.ConsoleApp\obj\Debug\netcoreapp3.1\Metodos.ConsoleApp.dll
+C:\Projetos\Metodos\src\Metodos.ConsoleApp\obj\Debug\netcoreapp3.1\Metodos.ConsoleApp.pdb

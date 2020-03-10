@@ -1,0 +1,11 @@
+C:\Projetos\Condicoes\src\Condicoes.ConsoleApp\bin\Debug\netcoreapp3.1\Condicoes.ConsoleApp.exe
+C:\Projetos\Condicoes\src\Condicoes.ConsoleApp\bin\Debug\netcoreapp3.1\Condicoes.ConsoleApp.deps.json
+C:\Projetos\Condicoes\src\Condicoes.ConsoleApp\bin\Debug\netcoreapp3.1\Condicoes.ConsoleApp.runtimeconfig.json
+C:\Projetos\Condicoes\src\Condicoes.ConsoleApp\bin\Debug\netcoreapp3.1\Condicoes.ConsoleApp.runtimeconfig.dev.json
+C:\Projetos\Condicoes\src\Condicoes.ConsoleApp\bin\Debug\netcoreapp3.1\Condicoes.ConsoleApp.dll
+C:\Projetos\Condicoes\src\Condicoes.ConsoleApp\bin\Debug\netcoreapp3.1\Condicoes.ConsoleApp.pdb
+C:\Projetos\Condicoes\src\Condicoes.ConsoleApp\obj\Debug\netcoreapp3.1\Condicoes.ConsoleApp.csprojAssemblyReference.cache
+C:\Projetos\Condicoes\src\Condicoes.ConsoleApp\obj\Debug\netcoreapp3.1\Condicoes.ConsoleApp.AssemblyInfoInputs.cache
+C:\Projetos\Condicoes\src\Condicoes.ConsoleApp\obj\Debug\netcoreapp3.1\Condicoes.ConsoleApp.AssemblyInfo.cs
+C:\Projetos\Condicoes\src\Condicoes.ConsoleApp\obj\Debug\netcoreapp3.1\Condicoes.ConsoleApp.dll
+C:\Projetos\Condicoes\src\Condicoes.ConsoleApp\obj\Debug\netcoreapp3.1\Condicoes.ConsoleApp.pdb

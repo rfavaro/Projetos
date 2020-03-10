@@ -1,0 +1,11 @@
+c:\Projetos\HelloWorld\src\HelloWorld.ConsoleApp\bin\Debug\netcoreapp3.1\HelloWorld.ConsoleApp.exe
+c:\Projetos\HelloWorld\src\HelloWorld.ConsoleApp\bin\Debug\netcoreapp3.1\HelloWorld.ConsoleApp.deps.json
+c:\Projetos\HelloWorld\src\HelloWorld.ConsoleApp\bin\Debug\netcoreapp3.1\HelloWorld.ConsoleApp.runtimeconfig.json
+c:\Projetos\HelloWorld\src\HelloWorld.ConsoleApp\bin\Debug\netcoreapp3.1\HelloWorld.ConsoleApp.runtimeconfig.dev.json
+c:\Projetos\HelloWorld\src\HelloWorld.ConsoleApp\bin\Debug\netcoreapp3.1\HelloWorld.ConsoleApp.dll
+c:\Projetos\HelloWorld\src\HelloWorld.ConsoleApp\bin\Debug\netcoreapp3.1\HelloWorld.ConsoleApp.pdb
+c:\Projetos\HelloWorld\src\HelloWorld.ConsoleApp\obj\Debug\netcoreapp3.1\HelloWorld.ConsoleApp.csprojAssemblyReference.cache
+c:\Projetos\HelloWorld\src\HelloWorld.ConsoleApp\obj\Debug\netcoreapp3.1\HelloWorld.ConsoleApp.AssemblyInfoInputs.cache
+c:\Projetos\HelloWorld\src\HelloWorld.ConsoleApp\obj\Debug\netcoreapp3.1\HelloWorld.ConsoleApp.AssemblyInfo.cs
+c:\Projetos\HelloWorld\src\HelloWorld.ConsoleApp\obj\Debug\netcoreapp3.1\HelloWorld.ConsoleApp.dll
+c:\Projetos\HelloWorld\src\HelloWorld.ConsoleApp\obj\Debug\netcoreapp3.1\HelloWorld.ConsoleApp.pdb

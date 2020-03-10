@@ -1,0 +1,11 @@
+C:\Projetos\ValorLiquidoDesconto\src\ValorLiquido.ConsoleApp\obj\Debug\netcoreapp3.1\ValorLiquido.ConsoleApp.csprojAssemblyReference.cache
+C:\Projetos\ValorLiquidoDesconto\src\ValorLiquido.ConsoleApp\obj\Debug\netcoreapp3.1\ValorLiquido.ConsoleApp.AssemblyInfoInputs.cache
+C:\Projetos\ValorLiquidoDesconto\src\ValorLiquido.ConsoleApp\obj\Debug\netcoreapp3.1\ValorLiquido.ConsoleApp.AssemblyInfo.cs
+c:\Projetos\ValorLiquidoDesconto\src\ValorLiquido.ConsoleApp\bin\Debug\netcoreapp3.1\ValorLiquido.ConsoleApp.exe
+c:\Projetos\ValorLiquidoDesconto\src\ValorLiquido.ConsoleApp\bin\Debug\netcoreapp3.1\ValorLiquido.ConsoleApp.deps.json
+c:\Projetos\ValorLiquidoDesconto\src\ValorLiquido.ConsoleApp\bin\Debug\netcoreapp3.1\ValorLiquido.ConsoleApp.runtimeconfig.json
+c:\Projetos\ValorLiquidoDesconto\src\ValorLiquido.ConsoleApp\bin\Debug\netcoreapp3.1\ValorLiquido.ConsoleApp.runtimeconfig.dev.json
+c:\Projetos\ValorLiquidoDesconto\src\ValorLiquido.ConsoleApp\bin\Debug\netcoreapp3.1\ValorLiquido.ConsoleApp.dll
+c:\Projetos\ValorLiquidoDesconto\src\ValorLiquido.ConsoleApp\bin\Debug\netcoreapp3.1\ValorLiquido.ConsoleApp.pdb
+c:\Projetos\ValorLiquidoDesconto\src\ValorLiquido.ConsoleApp\obj\Debug\netcoreapp3.1\ValorLiquido.ConsoleApp.dll
+c:\Projetos\ValorLiquidoDesconto\src\ValorLiquido.ConsoleApp\obj\Debug\netcoreapp3.1\ValorLiquido.ConsoleApp.pdb

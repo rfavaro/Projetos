@@ -1,0 +1,11 @@
+C:\Projetos\Variaveis\src\Variaveis.Testes\bin\Debug\netcoreapp3.1\Variaveis.Testes.exe
+C:\Projetos\Variaveis\src\Variaveis.Testes\bin\Debug\netcoreapp3.1\Variaveis.Testes.deps.json
+C:\Projetos\Variaveis\src\Variaveis.Testes\bin\Debug\netcoreapp3.1\Variaveis.Testes.runtimeconfig.json
+C:\Projetos\Variaveis\src\Variaveis.Testes\bin\Debug\netcoreapp3.1\Variaveis.Testes.runtimeconfig.dev.json
+C:\Projetos\Variaveis\src\Variaveis.Testes\bin\Debug\netcoreapp3.1\Variaveis.Testes.dll
+C:\Projetos\Variaveis\src\Variaveis.Testes\bin\Debug\netcoreapp3.1\Variaveis.Testes.pdb
+C:\Projetos\Variaveis\src\Variaveis.Testes\obj\Debug\netcoreapp3.1\Variaveis.Testes.csprojAssemblyReference.cache
+C:\Projetos\Variaveis\src\Variaveis.Testes\obj\Debug\netcoreapp3.1\Variaveis.Testes.AssemblyInfoInputs.cache
+C:\Projetos\Variaveis\src\Variaveis.Testes\obj\Debug\netcoreapp3.1\Variaveis.Testes.AssemblyInfo.cs
+C:\Projetos\Variaveis\src\Variaveis.Testes\obj\Debug\netcoreapp3.1\Variaveis.Testes.dll
+C:\Projetos\Variaveis\src\Variaveis.Testes\obj\Debug\netcoreapp3.1\Variaveis.Testes.pdb

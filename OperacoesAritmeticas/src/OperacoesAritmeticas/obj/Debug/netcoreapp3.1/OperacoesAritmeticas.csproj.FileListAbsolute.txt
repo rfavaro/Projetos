@@ -1,0 +1,11 @@
+C:\Projetos\OperacoesAritmeticas\src\OperacoesAritmeticas\obj\Debug\netcoreapp3.1\OperacoesAritmeticas.csprojAssemblyReference.cache
+C:\Projetos\OperacoesAritmeticas\src\OperacoesAritmeticas\obj\Debug\netcoreapp3.1\OperacoesAritmeticas.AssemblyInfoInputs.cache
+C:\Projetos\OperacoesAritmeticas\src\OperacoesAritmeticas\obj\Debug\netcoreapp3.1\OperacoesAritmeticas.AssemblyInfo.cs
+C:\Projetos\OperacoesAritmeticas\src\OperacoesAritmeticas\bin\Debug\netcoreapp3.1\OperacoesAritmeticas.exe
+C:\Projetos\OperacoesAritmeticas\src\OperacoesAritmeticas\bin\Debug\netcoreapp3.1\OperacoesAritmeticas.deps.json
+C:\Projetos\OperacoesAritmeticas\src\OperacoesAritmeticas\bin\Debug\netcoreapp3.1\OperacoesAritmeticas.runtimeconfig.json
+C:\Projetos\OperacoesAritmeticas\src\OperacoesAritmeticas\bin\Debug\netcoreapp3.1\OperacoesAritmeticas.runtimeconfig.dev.json
+C:\Projetos\OperacoesAritmeticas\src\OperacoesAritmeticas\bin\Debug\netcoreapp3.1\OperacoesAritmeticas.dll
+C:\Projetos\OperacoesAritmeticas\src\OperacoesAritmeticas\bin\Debug\netcoreapp3.1\OperacoesAritmeticas.pdb
+C:\Projetos\OperacoesAritmeticas\src\OperacoesAritmeticas\obj\Debug\netcoreapp3.1\OperacoesAritmeticas.dll
+C:\Projetos\OperacoesAritmeticas\src\OperacoesAritmeticas\obj\Debug\netcoreapp3.1\OperacoesAritmeticas.pdb
